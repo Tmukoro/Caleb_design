@@ -141,7 +141,7 @@
     }
 
     .btn1 .apb.active{
-        top: 310px;
+        top: 302px;
         opacity: 100%;
     }
 
@@ -319,7 +319,7 @@
         width: 100%;
         padding-top: 8%;
         padding-bottom: 7%;
-        margin-left: 3%;
+        margin: auto;
     }
 
     .ab2 h1{
@@ -327,6 +327,7 @@
         font-weight: 300;
         font-size: 32px;
         color: #1D2B36;
+        padding-left: 5%;
         align-items: center;
     }
 
@@ -335,6 +336,7 @@
         font-weight: 300;
         font-size: 16px;
         margin-top: 4%;
+        padding-left: 5%;
         color: #6C7175;
         align-items: center;
     }
@@ -342,6 +344,7 @@
     .ab2 .btn3 button{
         padding: 12px 87px;
         margin-top: 8%;
+        margin-left: 5%;
         border-radius: 11px;
         background-color: #F9FAFC;
         border: 1px solid #d3e1fc;
@@ -350,8 +353,9 @@
     }
     
     .ab2 .btn4 button{
-        padding: 12px 139px;
+        padding: 12px 137px;
         margin-top: 8%;
+        margin-left: 5%;
         background-color: #1A76DF;
         border: 1px solid #1A76DF;
         border-radius: 6px;
@@ -364,7 +368,7 @@
     .ab25{
         width: 90%;
         margin-top: 13%;
-        margin-left: 2%;
+        margin-left: 6%;
     }
 
     .ab25b {
@@ -389,7 +393,6 @@
    
     .ab3{
         float: left;
-        padding: 0%;
     }
 
     .ab3 img{
@@ -533,7 +536,6 @@
 @media (max-width: 480px){
     #wcu_sect{
        height: 1300px;
-       align-items: center;
     }
 
     .wb{
@@ -542,8 +544,8 @@
         background-color: #d5e3f3;
         padding: 4px 8px;
         width: 60%;
-        height: 28px;
-        margin-left: 3%;
+        height: 26px;
+        margin-left: 3.5%;
         align-items: center;
     }
     
@@ -560,8 +562,9 @@
     }
     
     .wb2{
-        margin-top: 6%;
-        margin-left: 3%;
+        padding-top: 6%;
+        width: 350px;
+        margin: auto;
     }
     
     .wb2 h1{
@@ -576,18 +579,20 @@
         font-weight: 300;
         font-size: 16px;
         color: #6C7175;
-        padding-top: 1%;
+        padding-top: 3%;
     }
     
     .lb1{
-        height: 650px;
-        margin-top: 5%;
+        height: 1000px;
+        padding-top: 5%;
+        margin: auto;
     }
     
     .lb2{
-        width: auto;
-        height: 730px;
-        margin-left: 7%;
+        width: 370px;
+        height: 1000px;
+        padding-left: 5%;
+        margin: auto;
         align-items: center;
     }
     
@@ -658,7 +663,7 @@
     
     
     .lb7{
-        margin-top: 4%;
+        margin: auto;
     }
 
     .lb7 img{
@@ -680,7 +685,7 @@
 .fbox2{
     width: 375px;
     height: 350px;
-    margin-left: 5%;
+    margin: auto;
     float: left;
 }
 
@@ -688,6 +693,7 @@
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 32px;
+    padding-left: 5%;
     color: #1D2B36;
 }
 
@@ -697,6 +703,7 @@
     font-size: 16px;
     color: #6C7175;
     padding-top: 3%;
+    padding-left: 5%;
 }
 
 .fbox2 .f1{
@@ -841,19 +848,20 @@
 
 @media (max-width: 480px){
     #fb_sect{
-        height: 800px;
+        height: 1000px;
     }
 
     .fbox2{
         width: 375px;
         height: 280px;
-        margin-left: 3%;
+        margin: auto;
     }
     
     .fbox2 h1{
         font-family: 'Inter', sans-serif;
         font-weight: 300;
         font-size: 24px;
+        padding-left: 5%;
         color: #1D2B36;
     }
     
@@ -862,6 +870,7 @@
         font-weight: 300;
         font-size: 16px;
         color: #6C7175;
+        padding-left: 5%;
         padding-top: 3%;
     }
     
@@ -1381,9 +1390,9 @@
     .fa_box1{
         width: 375px;
         height: 200px;
-        margin-left: 5%;
-        margin-top: 6%;
-        float: none;
+        padding-top: 6%;
+        margin: auto;
+        float: left;
     }
     
     .fa_box1 h1{
@@ -1391,6 +1400,7 @@
         font-weight: 300;
         font-size: 24px;
         color: #1D2B36;
+        padding-left: 3%;
     }
     
     .fa_box1 p{
@@ -1399,6 +1409,7 @@
         font-size: 16px;
         color: #6C7175;
         padding-top: 5%;
+        padding-left: 3%;
     }
     
 
@@ -1444,7 +1455,7 @@
           margin-top: 6%;
           margin-left: 3%;
           width: 350px;
-          padding: 25px;
+          padding: 27px;
     }
     
     .fab2{
@@ -1452,7 +1463,7 @@
         border: 1px solid #EFF0F2;
         border-radius: 16px;
         width: 350px;
-        padding: 25px;
+        padding: 27px;
         margin-top: 6%;
         margin-left: 3%;
     }
@@ -1463,7 +1474,7 @@
         border: 1px solid #EFF0F2;
         border-radius: 16px;
         width: 350px;
-        padding: 25px;
+        padding: 27px;
         margin-top: 6%;
         margin-left: 3%;
     }
@@ -1474,7 +1485,7 @@
         border: 1px solid #EFF0F2;
         border-radius: 16px;
         width: 350px;
-        padding: 25px;
+        padding: 27px;
         margin-top: 6%;
         margin-left: 3%;
     }
@@ -1486,7 +1497,7 @@
         border: 1px solid #EFF0F2;
         border-radius: 16px;
         width: 350px;
-        padding: 25px;
+        padding: 27px;
         margin-top: 6%;
         margin-left: 3%;
     }
@@ -1698,13 +1709,14 @@
         height: 240px;
         display: block;
         align-items: center;
-        margin-left: 5%;
+        margin: auto;
     }
     
     .hb1 h1{
         font-family: 'Inter', sans-serif;
         font-weight: 500;
         font-size: 24px;
+        padding-left: 5%;
         color: #1D2B36;
     }
     
@@ -1713,6 +1725,7 @@
         font-weight: 500;
         font-size: 16px;
         color: #515355;
+        padding-left: 5%;
         margin-top: 3%;
     }
     
@@ -1726,7 +1739,8 @@
         font-family: 'Inter', sans-serif;
         font-weight: 500;
         font-size: 16px;
-        padding: 8px 120px;
+        padding: 8px 115px;
+        margin-left: 5%;
         margin-top: 7%;
         text-align: center;
         height: 44px;
@@ -1836,7 +1850,7 @@
     .btfb{
         text-align: start;
         align-items: center;
-        margin-left: 3%;
+        margin: auto;
     }
     
     .btfb h1{
@@ -1844,6 +1858,7 @@
         font-weight: 500;
         font-size: 24px;
         color: #1D2B36;
+        padding-left: 5%;
     }
     
     .btfb p{
@@ -1852,6 +1867,7 @@
         font-size: 16px;
         color: #6C7175;
         margin-top: 4%;
+        padding-left: 5%;
     }
     
     
@@ -1861,6 +1877,7 @@
     
     .btfb2 input{
         padding: 6px 78px;
+        margin-left: 5%;
         height: 48px;
         border: 1px solid rgb(240, 240, 240);
         border-radius: 11px;
@@ -1884,8 +1901,9 @@
     }
     
     .btn6 button{
-        padding: 8px 126px;
+        padding: 8px 128px;
         margin-top: 6%;
+        margin-left: 5%;
         height: 48px;
         gap: 8px;
         color: white;
