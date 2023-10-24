@@ -253,9 +253,9 @@
         border-radius: 11px;
         top: -100%;
         opacity: 0%;
-        right: 5%;
+        right: 0%;
         text-align: center;
-        padding: 11px 155px;
+        padding: 11px 165px;
         background-color: #F9FAFC;
         border: 1px solid #c3c6cc;
         transition: 0.4s;
@@ -263,7 +263,7 @@
     }
 
     .btn1 .apb.active{
-        top: 310px;
+        top: 320px;
         opacity: 100%;
     }
 
@@ -272,17 +272,17 @@
         border-radius: 11px;
         top: -100%;
         opacity: 0%;
-        right: 4%;
+        right: 0%;
         text-align: center;
         transition: 0.4s;
-        padding: 11px 205px;
+        padding: 12px 213px;
         border: 1px solid #c3c6cc;
         text-decoration: none;
     }
 
 
     .btn2 .apb2.active {
-        top: 350px;
+        top: 370px;
         opacity: 100%;
     }
 
@@ -318,7 +318,7 @@
 
 
     .nav_link a img{
-        left: 89%;
+        left: 95%;
         position: absolute;
     }
 
@@ -433,7 +433,7 @@
     .ab2{
         display: inline;
         align-content: center;
-        width: 100%;
+        width: auto;
         padding-top: 8%;
         padding-bottom: 7%;
         margin: auto;
@@ -452,7 +452,7 @@
         font-family: 'Inter', sans-serif;
         font-weight: 300;
         width: 400px;
-        font-size: 16px;
+        font-size: 13px;
         margin-top: 4%;
         padding-left: 5%;
         color: #6C7175;
@@ -485,8 +485,8 @@
 
     .ab25{
         width: 90%;
+        margin-left: 5%;
         margin-top: 13%;
-        margin-left: 6%;
     }
 
     .ab25b {
@@ -506,7 +506,7 @@
         font-family: 'Inter', sans-serif;
         font-weight: 300;
         font-size: 14px;
-        width: 370px;
+        width: 350px;
         color: #6C7175;
     }
    
@@ -2489,7 +2489,7 @@
 
 @media screen and (min-width: 320px) and (max-width: 480px){
     #hurry_sect{
-       height: 500px;
+       height: 600px;
     }
 
     .hb1{
@@ -2698,7 +2698,7 @@
 
 @media screen and (min-width: 320px) and (max-width: 480px){
     #btf_sect{
-        height: 300px;
+        height: 400px;
     }
 
     .btfb{
@@ -2718,7 +2718,7 @@
     .btfb p{
         font-family: 'Inter', sans-serif;
         font-weight: 500;
-        font-size: 16px;
+        font-size: 14px;
         color: #6C7175;
         margin-top: 4%;
         padding-left: 5%;
